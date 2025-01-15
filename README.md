@@ -12,7 +12,8 @@ Foi utlizado o "ChatGPT" para gerar o texto e com o "D-ID" transformar esse text
 
 ## 🚀 Resultados
 O projeto é um abre portas feminino para o mundo da inteligencia artificial, incentiva o estudo e busca por lugar nesse mercado.
-[https://studio.d-id.com/share?id=9e3badf7f3772e9c3cd53529be8ed98f&utm_source=copy] 
+
+[link para o vídeo](https://studio.d-id.com/share?id=9e3badf7f3772e9c3cd53529be8ed98f&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
 O vídeo deu vida ao estudo e ainda o tema colocou voz ao início dessa jornada.
